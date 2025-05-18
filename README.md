@@ -13,7 +13,6 @@ Musikally is a full-stack music streaming platform that allows users to discover
   - [Environment Variables](#environment-variables)
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## ✨ Features
